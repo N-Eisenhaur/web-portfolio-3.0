@@ -48,7 +48,7 @@ active if clicked icon
                   
                    
                     <li>
-                        <a target ="_blank" rel="noreferrer" href='https://portfolio.nathanwebsites.com/Port-contact/'>Contact</a>
+                        <a target ="_blank" rel="noreferrer" href='http://portcontact.nathanwebsites.com/'>Contact</a>
                     </li>
                 </ul>
             </nav>
