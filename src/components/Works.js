@@ -54,7 +54,7 @@ const Works = () => {
                 
                 <div className="cards">
                     <img src={img4} alt="" />
-                    <a target="_blank" rel="noreferrer" href="https://portfolio.nathanwebsites.com/index.html">
+                    <a target="_blank" rel="noreferrer" href="http://portfolio.nathan-web.com/">
                     <button>See Work</button>
                     </a>
 
